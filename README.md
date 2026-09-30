@@ -24,7 +24,7 @@ HeroiTech must issue a tenant/account-scoped, expiring MCP bearer. Set it in the
 
 ## Service availability
 
-The configured URL is `https://autonomos.heroitech.ia.br/api/mcp`. An unauthenticated GET to that public URL returned HTTP 404 on 2026-09-30. The plugin cannot connect until HeroiTech deploys the MCP route and makes the service available. This repository is the public connector package for review; it does not claim that a live Grok connection has been validated.
+The configured URL is `https://autonomos.heroitech.ia.br/api/mcp`. An unauthenticated MCP POST to that public URL returned HTTP 404 on 2026-09-30. The plugin cannot connect until HeroiTech deploys the MCP route and makes the service available. This repository is the public connector package for review; it does not claim that a live Grok connection has been validated.
 
 The MIT license applies to `.cursor-plugin/plugin.json`, `mcp.json`, and this documentation. Logo files and the HeroiTech/Autonomos marks are excluded and remain the property of HeroiTech.
 
