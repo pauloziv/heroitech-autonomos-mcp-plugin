@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="Autonomos by HeroiTech">
+  <rect width="512" height="512" rx="104" fill="#FAF9FF"/>
+  <g transform="translate(64 64) scale(6.6206896552)" fill="none" stroke="#21106A" stroke-width="4.49032" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M10.8516 46.2129V16.0903C10.8516 10.1032 13.6581 7.48387 19.4581 7.48387H39.6645C45.6516 7.48387 48.0839 10.4774 48.0839 16.0903V26.7548C48.0839 32.3677 45.0903 35.1742 39.6645 35.1742H26.1935L10.8516 46.2129Z"/>
+    <path d="M32.5548 36.1097L48.0839 51.4516M48.0839 41.3484V51.4516H37.9806"/>
+  </g>
+</svg>

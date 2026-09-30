@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "autonomos": {
+      "type": "http",
+      "url": "https://autonomos.heroitech.ia.br/api/mcp",
+      "headers": {
+        "Authorization": "Bearer ${AUTONOMOS_MCP_TOKEN}"
+      }
+    }
+  }
+}
